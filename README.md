@@ -1,3 +1,1 @@
-# React-Fundamentos
-Hook de React - customHooks
-https://es.reactjs.org/docs/hooks-custom.html
+TALLER 27-28
